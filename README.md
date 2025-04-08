@@ -2,10 +2,11 @@
  
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ryther_</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ryther</h1>
+
 
 
 
@@ -49,6 +50,8 @@
 <tr border="none">
 
 <br/>
+
+  <p  align="center">
     <a href="https://github.com/rodrigopalaciossalas/github-readme-stats"><img alt="jaiswal4sudeep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jaiswal4sudeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/rodrigopalaciossalas/github-readme-stats"><img alt="jaiswal4sudeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal4sudeep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   
@@ -59,20 +62,24 @@
   </td>
 </tr>
 </table>
-
+  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- ## Spotify Playing
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbzJuMmhqczd6MG45eW1ncHBjNWsxMjNrbmMybmQ0bGo1eWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" width ="25"> <b>  Spotify Playing</b> 
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/2og1i0hr1qhoflalno5c1rrr6?si=d21c1e3c16274ac3)
+<p  align="center">
+  
+  [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/2og1i0hr1qhoflalno5c1rrr6?si=d21c1e3c16274ac3)
 
+</p>
 
  
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<br/><br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+</p>
+
 
 <p align="center"> 
   Visitor count<br>
