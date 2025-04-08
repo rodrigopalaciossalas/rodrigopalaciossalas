@@ -1,0 +1,6 @@
+- client secret : 33e543c390ed484d94d33cf8d47d2b29
+- client ID : 93e5b3507277440aa03ae9a08c001659
+
+URL:
+
+https://accounts.spotify.com/authorize?client_id=93e5b3507277440aa03ae9a08c001659&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
