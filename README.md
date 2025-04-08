@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ryther</h1>
-<h3 align="center"> Studend | Computer Science | Data Science</h3>
+<h3 align="center"> Student | Computer Science | Data Science</h3>
 
 
 
@@ -71,8 +71,7 @@
 
 <p  align="center">
   
-  ![Spotify]([https://USER_NAME.vercel.app/api/spotify](https://spotify-readme-mzwasz00f-rodrigopalaciossalas-projects.vercel.app))]
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/2og1i0hr1qhoflalno5c1rrr6?si=d21c1e3c16274ac3)
 </p>
 
  
