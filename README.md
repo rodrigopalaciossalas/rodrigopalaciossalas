@@ -80,10 +80,9 @@
 </p>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rodrigopalaciossalas/count.svg" />
-</p>
+<div style="text-align: center;">
+  <img src="https://profile-counter.glitch.me/rodrigopalaciossalas/count.svg" alt="Visitor Count" />
+</div>
 
 
 
