@@ -71,16 +71,7 @@
 
 ![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=2bff00&bar_color_cover=true)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-</p>
-
-
- 
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 </p>
