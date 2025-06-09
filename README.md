@@ -69,8 +69,13 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbzJuMmhqczd6MG45eW1ncHBjNWsxMjNrbmMybmQ0bGo1eWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" width ="25"> <b>  Spotify Playing</b> 
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbzJuMmhqczd6MG45eW1ncHBjNWsxMjNrbmMybmQ0bGo1eWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" width ="25"> <b>  Spotify Playing</b> 
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=30fe06&bar_color_cover=true)]]
+![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=30fe06&bar_color_cover=true)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+</p>
 
 
  
