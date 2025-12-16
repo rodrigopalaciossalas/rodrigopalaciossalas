@@ -78,8 +78,7 @@
 
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rodrigopalaciossalas/count.svg" alt="Contador de visitas" />
-</p>
-
+  F1 - stats <br>
+  ### 🏎️ GitHub F1 Race
+![My GitHub Stats Race](https://github.com/rodrigopalaciossalas/GitHub_Stats_F1/blob/main/f1_stats.gif?raw=true)
 
