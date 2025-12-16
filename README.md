@@ -82,6 +82,6 @@
 
 <p align="center">
   <a href="https://github.com/rodrigopalaciossalas/GitHub_Stats_F1">
-    <img src="https://github.com/rodrigopalaciossalas/GitHub_Stats_F1/blob/main/f1_stats.gif?raw=true" alt="F1 GitHub Stats" width="100%">
+   <img src="https://github.com/rodrigopalaciossalas/GitHub_Stats_F1/blob/main/f1_stats.gif?raw=true&t=1" alt="F1 GitHub Stats" width="100%">
   </a>
 </p>
