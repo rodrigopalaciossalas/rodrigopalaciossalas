@@ -78,8 +78,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 </p>
 
-## <img src="https://media.giphy.com/media/Runu3LeS0XWpM8I1Jt/giphy.gif" width="35"> <b> GitHub F1 Race </b>
-
+## <img src="[[https://media.giphy.com/media/Runu3LeS0XWpM8I1Jt/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdsZXVna3hjcWQ3am1icDQweWowcHhrNjZ2MHR0Y2xkNWR5Y2dzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjyqERPlgsnD0bRo22/giphy.gif)" width="35"> <b> GitHub F1 Race </b>
 <p align="center">
   <a href="https://github.com/rodrigopalaciossalas/GitHub_Stats_F1">
    <img src="https://github.com/rodrigopalaciossalas/GitHub_Stats_F1/blob/main/f1_stats.gif?raw=true&t=1" alt="F1 GitHub Stats" width="100%">
