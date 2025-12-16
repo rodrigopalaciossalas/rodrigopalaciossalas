@@ -69,7 +69,9 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxxbzJuMmhqczd6MG45eW1ncHBjNWsxMjNrbmMybmQ0bGo1eWZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" width ="25"> <b> Spotify Playing</b>
 
-![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=2bff00&bar_color_cover=true)
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2og1i0hr1qhoflalno5c1rrr6&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=2bff00&bar_color_cover=true" alt="Spotify Playing">
+</p>
 
 
 <p  align="center">
